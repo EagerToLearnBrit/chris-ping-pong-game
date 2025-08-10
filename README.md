@@ -1,6 +1,6 @@
 # Simple Ping-Pong Game by yours truly.C.C.
 
-A browser-based Pong game built with HTML5, CSS, and JavaScript. Play against a simple AI right in your browser.
+A browser-based Ping-Pong game built with HTML5, CSS, and JavaScript. Play against a simple AI right in your browser.
 
 ## How to Play
 
