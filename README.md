@@ -1,4 +1,4 @@
-# Simple Pong Game
+# Simple Ping-Pong Game by yours truly
 
 A browser-based Pong game built with HTML5, CSS, and JavaScript. Play against a simple AI right in your browser.
 
